@@ -1,8 +1,8 @@
 <h1 align="center" >Hi 👋, I'm Shivama</h1>
 <h3 align="center">A web development enthusiast</h3>
 <div align = "center" style = "display: inline-block;">
-  <p><img  src="https://github-readme-stats.vercel.app/api?username=shivama-max&show_icons=true&locale=en&theme=tokyonight&bg_color=00000000&rank_icon=github" alt="shivama-max" /><img  src="https://github-readme-streak-stats.herokuapp.com/?user=shivama-max&theme=tokyonight&bg_color=00000000" alt="shivama-max" /></p>
-  <p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=shivama-max&show_icons=true&locale=en&layout=donut-vertical&theme=tokyonight&bg_color=00000000" alt="shivama-max" /></p><br>
+  <p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=shivama-max&theme=tokyonight&bg_color=00000000" alt="shivama-max" /></p>
+  <p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=shivama-max&show_icons=true&locale=en&layout=donut-vertical&theme=tokyonight&bg_color=00000000" alt="shivama-max" /> <img  src="https://github-readme-stats.vercel.app/api?username=shivama-max&show_icons=true&locale=en&theme=tokyonight&bg_color=00000000&rank_icon=github" alt="shivama-max" /></p><br>
   </div>
 <img align = "right" alt = "enzoy" width = "400" src = "https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
 
