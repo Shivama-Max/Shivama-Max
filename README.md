@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **ReactJS, ExpressJS**
 
-- 👨‍💻 All of my projects are available at [github.com/Shivama-Max](github.com/Shivama-Max)
+- 👨‍💻 All of my projects are available at [github.com/Shivama-Max](github.com/Shivama-Max) and you can access them by visiting https://shivama-max.github.io/[repository name]/
 
 - 📫 How to reach me **shivamasthakur.02@gmail.com**
 
