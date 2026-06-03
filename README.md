@@ -40,7 +40,7 @@ Building scalable backend systems, search platforms and enterprise applications.
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/shivama--4938b7238">
+<a href="https://www.linkedin.com/in/shivama-⠀-4938b7238/">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
