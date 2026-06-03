@@ -99,32 +99,6 @@ Building scalable backend systems, search platforms and enterprise applications.
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shivama-max&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=shivama-max&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivama-max&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=shivama-max&theme=tokyonight&row=1&column=7" />
-</p>
-
----
-
 ## 📈 Contribution Activity
 
 <p align="center">
